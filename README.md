@@ -1,7 +1,7 @@
 # IEEEMDB System
 ### It's a smart movie review system that allows users to explore movies and the community review about it.
 
-###Features:
+### Features:
 
 ###  User
 - Create movie collections
