@@ -1,6 +1,8 @@
 # IEEEMDB System
 ### It's a smart movie review system that allows users to explore movies and the community review about it.
 
+system design : https://excalidraw.com/#room=18c532b63189ab4d2342,UOcRqlcKBKrl_w-as6a5jQ
+
 ### Features:
 
 ###  User
