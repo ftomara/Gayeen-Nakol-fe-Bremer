@@ -1,3 +1,10 @@
 # Gayeen-Nakol-fe-Bremer
-- **link to excalidraw system design** : https://excalidraw.com/#room=18c532b63189ab4d2342,UOcRqlcKBKrl_w-as6a5jQ
 
+## system over view
+
+### it is a smart movie review system that allows users to explore movies and the community review about it
+
+**features** :
+- create movie collections
+- sumbit reviews for movies
+- explore other users reviews
