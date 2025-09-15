@@ -32,6 +32,7 @@ struct admin
 {
     string email;
     string password;
-    vector<user>users;
-    vector<movie>movies;
+    vector<user> users;
+    vector<movie> movies;
+    unordered_map<int, int> movies_map;
 };
